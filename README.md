@@ -5,7 +5,9 @@ Data taken from kaggle
 - [MyAnimeList Dataset](https://www.kaggle.com/datasets/azathoth42/myanimelist?datasetId=28524&sortBy=voteCount)
 <br>
 
-## Table of contents
+You can skip preprocessing part and run program from Recommandaiton Engine with preprocessed data
+
+## Contents
 1. - Preprocessing
 2. - Visualization
 3. - Recommendation System with ALS
