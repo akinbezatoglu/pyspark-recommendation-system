@@ -1,7 +1,7 @@
 # pyspark-recommendation-system
 ### My teammate on this project [Akın Bezatoğlu](https://github.com/akinbezatoglu)
-Anime recommendation system with pyspark
-Data taken from kaggle 
+Anime recommendation system with pyspark<br>
+Data taken from kaggle. See:
 - [MyAnimeList Dataset](https://www.kaggle.com/datasets/azathoth42/myanimelist?datasetId=28524&sortBy=voteCount)
 <br>
 
